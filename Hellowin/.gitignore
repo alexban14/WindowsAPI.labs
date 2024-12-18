@@ -1,0 +1,55 @@
+# Visual Studio specific
+.vscode/
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.ncb
+*.sdf
+*.suo
+*.vcxproj.*.user
+*.opendb
+*.tlog
+*.log
+ipch/
+*.pidb
+*.obj
+*.pch
+*.idb
+*.ilk
+*.log
+*.userprefs
+*.sqlite
+
+# Build directories
+Debug/
+Release/
+x64/Debug/
+x64/Release/
+build/
+
+# IntelliSense database
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Precompiled headers
+*.pdb
+
+# Temporary files
+*.tmp
+*.tlog
+
+# Build artifacts
+*.exe
+*.dll
+*.lib
+*.exp
+*.manifest
+
+# Crash dumps
+*.dmp
+
+# Custom directories (optional)
+out/
+bin/
+obj/

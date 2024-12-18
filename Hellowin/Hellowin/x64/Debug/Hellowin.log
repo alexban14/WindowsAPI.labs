@@ -1,0 +1,3 @@
+﻿  Hellowin.cpp
+C:\Users\Ban Alexandru\STIA_master\STIA_II\Module_II\ProgramareAPI\assignmnets-applications\Hellowin\Hellowin.cpp(61,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Hellowin.vcxproj -> C:\Users\Ban Alexandru\STIA_master\STIA_II\Module_II\ProgramareAPI\assignmnets-applications\Hellowin\x64\Debug\Hellowin.exe
